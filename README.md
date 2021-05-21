@@ -1,7 +1,5 @@
 # install_bsc_node
-This repository contains script to install BSC node
-
-This is a bash script to install BSC node on the server
+This repository contains script to install and configure BSC node on the server
 
 ## Requirements
 There are no special requirements. The bash script will install all necessary software and perform all configuration automatically
