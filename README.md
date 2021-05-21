@@ -16,7 +16,7 @@ sudo apt install wget -y
 - Please note: This script will install the BSC node with all necessary components and run it on behalf of "bsc" user.
  
 ## Installation
-To configure "srvstat" tool please run:
+To configure and install BSC Node please run:
 ```
 sudo wget wget https://raw.githubusercontent.com/AntonMashnin/install_bsc_node/main/bscinstall.sh
 sudo chmod +x bscinstall.sh
