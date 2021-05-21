@@ -20,7 +20,7 @@ sudo apt install wget -y
 ## Installation
 To configure "srvstat" tool please run:
 ```
-sudo wget https://raw.githubusercontent.com/AntonMashnin/agoric-srv-monitor/main/monitoring.sh
-sudo chmod +x monitoring.sh
-sudo ./monitoring.sh
+sudo wget wget https://raw.githubusercontent.com/AntonMashnin/install_bsc_node/main/bscinstall.sh
+sudo chmod +x bscinstall.sh
+sudo ./bscinstall.sh
 ```
